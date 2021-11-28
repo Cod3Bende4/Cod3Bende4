@@ -33,7 +33,7 @@
 </p>
 
 
-## 🔥 Streak stats
+## 🔥 GitHub Streak Stats
 
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muthu Annamalai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Bende4&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&border=0A1FDD"/>
