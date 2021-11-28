@@ -1,21 +1,23 @@
-<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I am Rishabh</h2>
+<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I am Rishabh ( <img src="https://img.shields.io/badge/Developer-FFD43B?style=flat&logo=python&logoColor=yellow&label=Python"> )</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=500&lines=Blockchain+%26+Cybersecurity+Enthusiast;Self-taught+Python+Developer;Learning+%26+Sharing)](https://git.io/typing-svg)
+
+
 
 <h3> 🔭 Envisioned to make myself a better person and world a better place with help IT. </h3>
 </br>
 
-[👨‍💻 github.com/Cod3Bende4](https://github.com/Cod3Bende4)
 
-- 🌱 I’m currently learning:
-  > Making Websites from Flask
-- More on my learning list:
+🌱 I’m currently learning:
+  - Making Websites from Flask
+
+📋 More on my learning list:  
+  1. Blockchain
+  2. Dapps with Solidity 
+     1. Decentralised Messaging app
+     2. Crypto-Trading Website
+  3. Telegram bot with Python
   
-  > Blockchain 
-    > Dapps with Solidity 
-    * a. Decentralised Messaging app
-    * b. Trading Website 
-    >Telegram bot with Python
 
 </br>
 
@@ -31,7 +33,7 @@
 </p>
 
 
-## 🔥 GitHub Streak Stats
+## 🔥 Streak stats
 
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muthu Annamalai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Bende4&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&border=0A1FDD"/>
@@ -51,8 +53,8 @@ BLOG-POST-LIST:START
 <hr>
 
 <p align = "left">
-<a href="https://github.com/Cod3Bende4"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
-<a href="https://hashnode.com/@BlackBull"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="HashNode"></a>&nbsp;
-<a href="https://www.hackerrank.com/Cod3Bende4"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank"></a>&nbsp;
-<a href = "https://www.sololearn.com/profile/396004"><img src = "https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white" alt="SoloLearn">&nbsp;
+<a href="https://github.com/Cod3Bende4"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://hashnode.com/@BlackBull"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="HashNode" /></a>&nbsp;
+<a href="https://www.hackerrank.com/Cod3Bende4"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp;
+<a href = "https://www.sololearn.com/profile/396004"><img src = "https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white">
 </p>
