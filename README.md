@@ -1,8 +1,7 @@
 <h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I am Rishabh ( <img src="https://img.shields.io/badge/Developer-FFD43B?style=flat&logo=python&logoColor=yellow&label=Python"> )</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=500&lines=Blockchain+%26+Cybersecurity+Enthusiast;Self-taught+Python+Developer;Learning+%26+Sharing)](https://git.io/typing-svg)
-
-
+<p align = "center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23678A5D&width=400&lines=Blockchain+%26+Cybersecurity+Enthusiast;Azure+Certified+AI-Engineer;Learning+%26+Sharing;Part-time+Gardener">
+</p>
 
 <h3> 🔭 Envisioned to make myself a better person and world a better place with help IT. </h3>
 </br>
@@ -36,7 +35,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muthu Annamalai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Bende4&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&border=0A1FDD"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muthu Annamalai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Bende4&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&border=0A1FDD"/>
   
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a> <br>   <b>Note:</b> This is only a metric of my public code on GitHub and does not reflect my expertise or skill level.</p>
 </p>
