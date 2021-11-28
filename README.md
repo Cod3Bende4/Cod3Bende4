@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I am Rishabh</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=500&lines=Blockchain+%26+Cybersecurity+Enthusiast;Self-taught+Python+Developer;Learning+%26+Sharing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=500&lines=Blockchain+%26+Cybersecurity+Enthusiast;Self-taught+Python+Developer;Learning+%26+Sharing)](https://git.io/typing-svg)
 
 <h3> 🔭 Envisioned to make myself a better person and world a better place with help IT. </h3>
 </br>
