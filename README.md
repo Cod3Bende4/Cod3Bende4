@@ -8,14 +8,15 @@
 
 
 🌱 I’m currently learning:
-  - Making Websites from Flask
+  - Web Scrapping using Python
 
 📋 More on my learning list:  
-  1. Blockchain
-  2. Dapps with Solidity 
+  1. Making Websites from Flask
+  2. Blockchain
+  3. Dapps with Solidity 
      1. Decentralised Messaging app
      2. Crypto-Trading Website
-  3. Telegram bot with Python
+  4. Telegram bot with Python
   
 
 </br>
