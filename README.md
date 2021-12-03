@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%23678A5D&width=400&lines=Blockchain+%26+Cybersecurity+Enthusiast;Azure+Certified+AI-Engineer;Learning+%26+Sharing;Part-time+Gardener">
 </p>
 
-<h3> 🔭 Envisioned to make myself a better person and world a better place with help IT. </h3>
+<h3> 🔭 Envisioned to make myself a better person and world a better place with help of IT. </h3>
 </br>
 
 
