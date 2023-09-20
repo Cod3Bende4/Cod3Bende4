@@ -32,24 +32,6 @@
 <a href="https://t.me/LeonardoVinci"><img src="https://img.shields.io/badge/Message-444444?style=social&logo=telegram&label=Telegram" alt="Telegram"></a>&nbsp;
 </p>
 
-
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muthu Annamalai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Bende4&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&border=0A1FDD"/>
-  
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a> <br>   <b>Note:</b> This is only a metric of my public code on GitHub and does not reflect my expertise or skill level.</p>
-</p>
-
-<!-- 📘 Latest Blog Articles
-BLOG-POST-LIST:START
-- [What is Github License And How To Add Them?](https://)
--  -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ▶ [...more blog articles]( https:) -->
-
-
 <hr>
 
 <p align = "left">
