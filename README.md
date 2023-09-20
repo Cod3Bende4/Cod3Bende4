@@ -6,7 +6,6 @@
 <h3> 🔭 Envisioned to make myself a better person and world a better place with help of IT. </h3>
 </br>
 
-
 🌱 I’m currently learning:
   - Web Scrapping using Python
 
@@ -17,7 +16,13 @@
      1. Decentralised Messaging app
      2. Crypto-Trading Website
   4. Telegram bot with Python
-  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cod3Bende4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Cod3Bende4" />
+
+<!--
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cod3Bende4&show_icons=true&locale=en" alt="Cod3Bende4" />
+-->
 
 </br>
 
@@ -40,3 +45,9 @@
 <a href="https://www.hackerrank.com/Cod3Bende4"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp;
 <a href = "https://www.sololearn.com/profile/396004"><img src = "https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white">
 </p>
+
+
+
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cod3Bende4&" alt="Cod3Bende4" /></p>
+-->
