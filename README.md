@@ -77,9 +77,7 @@ current_focus = {
 | CSSLP | ISC2 | ✅ Active |
 | CC | ISC2 | ✅ Active |
 | CAISP | Practical DevSecOps | 🔄 In Progress |
-| PCNSA | Palo Alto Networks | ✅ Active |
 | NSE2 | Fortinet | ✅ Active |
-| Azure AI Engineer Associate | Microsoft | ✅ Active |
 
 </div>
 
