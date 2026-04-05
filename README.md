@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Securing+systems+at+consumer+scale+%F0%9F%9B%A1%EF%B8%8F;SAST+%7C+DAST+%7C+Threat+Modeling+%7C+Cloud+Security;CISSP+%7C+CSSLP+%7C+CC+%7C+CAISP+%E2%86%92+In+Progress;Embedding+security+into+the+SDLC%2C+not+bolting+it+on)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Securing+systems+at+consumer+scale+%F0%9F%9B%A1%EF%B8%8F;SAST+%7C+DAST+%7C+Threat+Modeling+%7C+Cloud+Security;CISSP+%7C+CSSLP+%7C+CC+%7C+CAISP+%E2%86%92+In+Progress;Embedding+security+into+the+SDLC%2C)](https://git.io/typing-svg)
 
 </div>
 
